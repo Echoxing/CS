@@ -1,4 +1,4 @@
-# CS学习礼记
+# CS学习记录
 
 [Python数学建模与算法](https://github.com/hacheyz/PMMAA)
 
