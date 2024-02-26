@@ -4,3 +4,7 @@
 
 [hello算法](https://www.hello-algo.com/)
 
+# 资源
+
+- [数据科学学习手札](https://github.com/CNFeffery/DataScienceStudyNotes?tab=readme-ov-file)
+
