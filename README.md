@@ -1,4 +1,4 @@
-# CS学习记录
+# CS自学——从杨过到扫地僧
 
 [Python数学建模与算法](https://github.com/hacheyz/PMMAA)
 
