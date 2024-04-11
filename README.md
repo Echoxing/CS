@@ -1,5 +1,11 @@
 # CS自学——从杨过到扫地僧
 
+计算机组成原理
+
+语言
+
+c++
+
 [Python数学建模与算法](https://github.com/hacheyz/PMMAA)
 
 [hello算法](https://www.hello-algo.com/)
