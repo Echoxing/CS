@@ -1,3 +1,9 @@
+# 两数之和
+```python
+a=int(input())
+b=int(input())
+print('a+b=',a+b)
+```
 
 # 判断用户输入的年份是否为闰年
 
