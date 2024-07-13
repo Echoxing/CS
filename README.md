@@ -9,3 +9,5 @@
 - [hello算法](https://www.hello-algo.com/)
 - [数据科学学习手札](https://github.com/CNFeffery/DataScienceStudyNotes?tab=readme-ov-file)
 
+# 学习指南
+- [CS自学指南]()（大概是流传最广泛的中文学习指南）
