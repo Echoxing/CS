@@ -16,3 +16,12 @@ if n % 400 == 0 or n % 4 == 0 and n % 100 != 0:
 else:
     print('{0}不是闰年'.format(n))
 ```
+
+# 数字的阶乘
+```python
+n=int(input())
+count=1
+for i in range(1,n+1):
+    count = count*i
+print(count)
+```
