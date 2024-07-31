@@ -47,3 +47,14 @@ a=int(input())
 b=int(input())
 print(demo(a,b))
 ```
+# 求前n个数的平方和
+```python
+def square(n):
+    sum=0
+    for i in range(1,n+1):
+        sum=sum+i*i
+    return sum
+
+a=int(input())
+print(square(a))
+```
