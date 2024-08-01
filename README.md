@@ -11,3 +11,4 @@
 
 # 学习指南
 - [CS自学指南]()（大概是流传最广泛的中文学习指南）
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
