@@ -47,6 +47,20 @@ a=int(input())
 b=int(input())
 print(demo(a,b))
 ```
+# 求区间内的偶数
+```python
+def oushu(n1,n2):
+    result=[]
+    for i in range(n1,n2+1):
+        if i%2==0:
+            result.append(i)
+    return(result)
+
+n1=int(input())
+n2=int(input())
+print(oushu(n1,n2))
+```
+
 # 求前n个数的平方和
 ```python
 def square(n):
@@ -57,4 +71,27 @@ def square(n):
 
 a=int(input())
 print(square(a))
+```
+
+# 求圆的面积
+```python
+import math
+radius=int (input("请输入圆的半径"))
+
+area=math.pi*radius**2
+print(area)
+```
+
+# 数据类型
+## 计算列表数字和
+```python
+def sum_list(li):
+    total=0
+    for i in li:
+        total+=i
+    return total
+
+li=[1,2,3,4]
+print("输出列表和：%s"% sum_list(li))
+print(sum(li))
 ```
