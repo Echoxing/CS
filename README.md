@@ -13,7 +13,7 @@
 - [hello算法](https://www.hello-algo.com/)
 
 ## 计算机系统
-![]([https://foxsen.github.io/archbase/images/chapter1/hierarchy.png](https://cdn.jsdelivr.net/gh/xingziding/picodemo/img/68747470733a2f2f666f7873656e2e6769746875622e696f2f61726368626173652f696d616765732f63686170746572312f6869657261726368792e706e67.png))
+![](https://cdn.jsdelivr.net/gh/xingziding/picodemo/img/QQ%E6%88%AA%E5%9B%BE20240807160106.jpg)
 - 《深入理解计算机系统》第三版
 ### 计算机组成原理
 ### 操作系统
