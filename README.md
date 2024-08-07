@@ -14,6 +14,7 @@
 
 ## 计算机系统
 ![](https://foxsen.github.io/archbase/images/chapter1/hierarchy.png)
+- 《深入理解计算机系统》第三版
 ### 计算机组成原理
 ### 操作系统
 ### 编译原理
