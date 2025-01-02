@@ -7,7 +7,7 @@
 ### C
 ### C++
 ### Python
-- [【Python零基础教程】100道Python练习题，细致讲解，新手必备，快来一起刷题吧！](https://www.bilibili.com/video/BV1is4y1q7Qo?p=1&vd_source=faf0776077e2eb91fbb8b452bbd732b0)
+- [【Python零基础教程】100道Python练习题](https://www.bilibili.com/video/BV1is4y1q7Qo?p=1&vd_source=faf0776077e2eb91fbb8b452bbd732b0)
 
 ## 数据结构与算法
 - [hello算法](https://www.hello-algo.com/)

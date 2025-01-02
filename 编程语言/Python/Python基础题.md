@@ -86,12 +86,24 @@ print(area)
 ## 计算列表数字和
 ```python
 def sum_list(li):
-    total=0
+    total = 0
     for i in li:
-        total+=i
+        total += i
     return total
 
-li=[1,2,3,4]
+# li=list(input())input() 直接将输入作为字符串处理，导致 list(input()) 会将字符串拆分成字符列表。
+# sum_list 函数和内置的 sum 函数都期望输入是数值列表，而字符列表不能直接进行求和。
+# 输入一个由空格分隔的数字字符串并转化为整数列表
+li = list(map(int, input("请输入一组数字（空格分隔）：").split()))
 print("输出列表和：%s"% sum_list(li))
 print(sum(li))
+```
+
+## 从列表中移除多个元素
+```python
+li = list(input("Enter the main list of characters: "))
+move = input("Enter the characters to remove: ")
+for i in move:
+    li.remove(i)
+print(li)
 ```
